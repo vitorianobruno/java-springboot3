@@ -1,0 +1,6 @@
+com\spring\microservices\jms\User.class
+com\spring\microservices\jms\Application.class
+com\spring\microservices\jms\Receiver.class
+com\spring\microservices\jms\configuration\ActiveMqConf.class
+com\spring\microservices\jms\Email.class
+com\spring\microservices\jms\ProducerMessages.class
